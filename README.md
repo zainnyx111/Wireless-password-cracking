@@ -13,7 +13,11 @@ This is the wireless connection itself , The invisible signals that travel (acce
 
 - wi-fi works by sending data through the air using radio waves
 
--so, when someone performs wireless cracking , theyre trying to intercept or manipulate those radio signals to get information - such as the network password or user data
+-so, when someone performs wireless cracking 
+
+theyre trying to intercept or manipulate those radio signals to get information
+
+- such as the network password or user data
 
 # PROTOCOLS:
 These are rules and standards WI-FI follows to communicate securely e.g
@@ -34,4 +38,6 @@ WPS(WI-FI protected setup) - a convenience feature that can be abused
 -aircrack-ng suite(airmon-ng, airdump, aireplay-ng,aircrack-ng)
 
 # Aircrack-ng:
-Its a collection of tools for wireless network auditing. it helps you capture wi-fi traffic , test injection, perform attacks for collecting handshakes or cracking  WEP/WPA keys , and analyze/decrypt captures 
+Its a collection of tools for wireless network auditing. it helps you capture wi-fi traffic 
+
+ Test injection, perform attacks for collecting handshakes or cracking  WEP/WPA keys , and analyze/decrypt captures 
